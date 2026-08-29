@@ -1,0 +1,6 @@
+streamlit
+pydantic
+networkx
+plotly
+pandas
+snowflake-connector-python
